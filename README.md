@@ -1,2 +1,2 @@
 # javascript-basic
-Javascript Basic
+Javascript Basic. Урок первый
