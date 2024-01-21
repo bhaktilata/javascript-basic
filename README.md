@@ -1,6 +1,6 @@
 # javascript-basic
 Javascript Basic
-<img href="images/javascript.jpg">
+<img src="images/javascript.jpg" alt="" class="img-fluid">
 
 Javascript Basic. Урок первый
 
